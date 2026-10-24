@@ -1,0 +1,12 @@
+git-security-playbook/
+├── README.md
+├── .pre-commit-config.yaml
+├── .gitignore
+├── .github/
+│   └── workflows/
+│       └── security.yml
+└── docs/
+    ├── purging-sensitive-data.md
+    ├── pre-commit-hooks.md
+    ├── git-disaster-recovery.md
+    └── github-actions-ci.md
